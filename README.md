@@ -9,3 +9,7 @@ you can download files...
 # How to run
 
 Run my cpp files with Codeblocks software
+
+# Help
+
+Dont hesitate to ask any questions
